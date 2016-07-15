@@ -85,6 +85,8 @@ VPN_USER='your_vpn_username' \
 VPN_PASSWORD='your_vpn_password' sh vpnsetup.sh
 ```
 
+For installation on DigitalOcean, check out this <a href="https://usefulpcguide.com/17318/create-your-own-vpn/" target="_blank">detailed step-by-step guide</a> by Tony Tran.
+
 **Note:** If unable to download via `wget`, you may also open <a href="vpnsetup.sh" target="_blank">vpnsetup.sh</a> (or <a href="vpnsetup_centos.sh" target="_blank">vpnsetup_centos.sh</a>) and click the **`Raw`** button. Press `Ctrl-A` to select all, `Ctrl-C` to copy, then paste into your favorite editor.
 
 ### CentOS & RHEL
